@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Aaqib Ahmad, Bengaluru. Product designer, design strategist, designer who codes and design mentor. Currently building.">
+  <img src="assets/banner.svg" width="100%" alt="Aaqib Ahmad, Bengaluru. Product designer, design strategist, designer who codes and design mentor. Currently building.">
 </p>
 
 <p align="center">
