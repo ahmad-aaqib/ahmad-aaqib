@@ -14,7 +14,7 @@ Hi, I'm Aaqib: a product designer who did a master's in computer science and the
 
 ## `02` Character select 🎮
 
-| | |
+| Player | Aaqib Ahmad |
 | --- | --- |
 | **Class** | Designer who codes |
 | **Base** | Bengaluru, India |
