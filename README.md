@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Aaqib Ahmad, Bengaluru. Product designer, design strategist, designer who codes and design mentor. Currently building.">
+  <img src="assets/banner-v2.svg" width="100%" alt="Aaqib Ahmad, Bengaluru. Product designer, vibe coder, designer who codes and design mentor. Pixel perfection. Currently building.">
 </p>
 
 <p align="center">
