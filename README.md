@@ -8,11 +8,11 @@
   <a href="https://www.behance.net/gallery/201757321/OnePlus-Watchfaces"><img src="https://img.shields.io/badge/Behance-121110?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 </p>
 
-## 👋 Hey, I'm Aaqib
+## `01` Player one has entered the chat 👋
 
-A product designer who did a master's in computer science and then refused to close VS Code. By day I craft digital experiences for global brands. By night I craft… more digital experiences, but nobody reviews them.
+Hi, I'm Aaqib: a product designer who did a master's in computer science and then refused to close VS Code. By day I craft digital experiences for global brands. By night I craft… more digital experiences, but nobody reviews them.
 
-## 🎮 Character sheet
+## `02` Character select 🎮
 
 | | |
 | --- | --- |
@@ -25,7 +25,7 @@ A product designer who did a master's in computer science and then refused to cl
 | **Weakness** | A headline that's *almost* kerned |
 | **Status** | Currently building something. No, I won't tell you what. Yet. 🤫 |
 
-## 💾 Save points
+## `03` Save file 💾
 
 ```
 2019  ▸  Learned to talk to computers        MS, Computer Science · Christ University
@@ -35,7 +35,9 @@ A product designer who did a master's in computer science and then refused to cl
 2027  ▸  MBA loading… ███████████░░░ 80%     IIM Kozhikode
 ```
 
-## 🛠️ Things I've shipped (or at least obsessed over)
+## `04` Quests completed 🗺️
+
+<sub>Things I've shipped, or at least obsessed over.</sub>
 
 - ⌚ **[OnePlus Watch 2 watch faces](https://www.behance.net/gallery/201757321/OnePlus-Watchfaces):** tiny screens, very big opinions.
 - ⌚ **[Watch faces × Noise](https://www.behance.net/gallery/129007887/Watchface-Design-x-Noise):** more pixels per square millimetre than is strictly reasonable.
@@ -43,7 +45,7 @@ A product designer who did a master's in computer science and then refused to cl
 - 🎨 **[An Artist's Room](https://www.behance.net/gallery/166959629/Artists-Room):** the paint is digital, the mess is optional. Also Spline.
 - 🎧 **[Music artist landing page](https://www.behance.net/gallery/128179079/Music-Artist-Landing-Page):** loud, in a good way.
 
-## 🏆 Trophy cabinet
+## `05` Achievements unlocked 🏆
 
 - 🥇 **Deloitte President's Club, Foundation Cohort:** one of 36 people across India. Yes, I counted.
 - 💫 **President's Bonus Award 2024:** top 3% of performers.
@@ -51,7 +53,7 @@ A product designer who did a master's in computer science and then refused to cl
 - 🟣 **Community Leader, Friends of Figma Bengaluru:** professional frame-namer, amateur event host.
 - 📱 **OnePlus Orbit:** one of 100 seed members invited to poke at the app's UX before anyone else.
 
-## 🧰 What's in the bag
+## `06` Inventory 🎒
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ts,js,react,html,css,tailwind,vite,nodejs,git,github,vercel&perline=12" alt="Figma, TypeScript, JavaScript, React, HTML, CSS, Tailwind CSS, Vite, Node.js, Git, GitHub, Vercel">
@@ -59,7 +61,7 @@ A product designer who did a master's in computer science and then refused to cl
 
 Product design · UX and UI · design strategy · design systems · brand identity · 3D in Spline · HCI · an unreasonable number of browser tabs
 
-## 🎲 Random facts
+## `07` Lore 📜
 
 - I have redesigned at least one form *while* filling it in.
 - Favourite font weight: 800 on weekdays, italic serif on weekends.
@@ -70,4 +72,4 @@ Product design · UX and UI · design strategy · design systems · brand identi
   <img src="https://streak-stats.demolab.com?user=ahmad-aaqib&theme=default&background=F3F1EA&ring=121110&fire=121110&currStreakLabel=121110&hide_border=true" alt="GitHub streak">
 </p>
 
-<p align="center"><sub>Thanks for scrolling this far. You've earned a cookie 🍪 Say hi on <a href="https://www.linkedin.com/in/aaqib-ahmad/">LinkedIn</a>.</sub></p>
+<p align="center"><sub>💾 Game saved. Thanks for playing, you've earned a cookie 🍪 Say hi on <a href="https://www.linkedin.com/in/aaqib-ahmad/">LinkedIn</a>.</sub></p>
