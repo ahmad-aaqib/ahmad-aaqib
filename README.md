@@ -14,14 +14,12 @@ I'm Aaqib, a product designer with a master's in computer science, so I like to 
 
 ## `02` At a glance
 
-| | |
-| --- | --- |
-| **Role** | Senior Consultant, Product Design at Deloitte |
-| **Based in** | Bengaluru, India |
-| **Experience** | 5 years across banking, fintech, FMCG and consumer electronics |
-| **Studying** | MBA, IIM Kozhikode (class of 2027) |
-| **Good at** | Turning complex problems into simple, clear screens |
-| **Now** | Building something new on the side. More soon 🤫 |
+- 💼 **Role:** Senior Consultant, Product Design at Deloitte
+- 📍 **Based in:** Bengaluru, India
+- 🧭 **Experience:** 5 years across banking, fintech, FMCG and consumer electronics
+- 🎓 **Studying:** MBA, IIM Kozhikode (class of 2027)
+- ✨ **Good at:** turning complex problems into simple, clear screens
+- 🛠️ **Now:** building something new on the side. More soon 🤫
 
 ## `03` Journey
 
