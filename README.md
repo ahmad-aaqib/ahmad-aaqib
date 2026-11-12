@@ -10,7 +10,7 @@
 
 ## `01` Hello 👋
 
-I'm Aaqib, a product designer with a master's in computer science, so I like to build what I design. I craft digital experiences for global brands, working where product design meets business strategy.
+I'm Aaqib, a product designer who loves making **beautiful apps** and sweating every pixel until it's just right. With a master's in computer science, I don't stop at the mockup: these days I **vibe code** my ideas into real, working products. By day I craft digital experiences for global brands, where product design meets business strategy.
 
 ## `02` At a glance
 
@@ -18,7 +18,9 @@ I'm Aaqib, a product designer with a master's in computer science, so I like to 
 - 📍 **Based in:** Bengaluru, India
 - 🧭 **Experience:** 5 years across banking, fintech, FMCG and consumer electronics
 - 🎓 **Studying:** MBA, IIM Kozhikode (class of 2027)
-- ✨ **Good at:** turning complex problems into simple, clear screens
+- ✨ **Good at:** turning complex problems into simple, beautiful screens
+- 🔍 **Obsessed with:** pixel-perfect details, from spacing and type to the last 1 px of alignment
+- 🤖 **Vibe coding:** pairing with AI to take designs from Figma to shipped, fast
 - 🛠️ **Now:** building something new on the side. More soon 🤫
 
 ## `03` Journey
@@ -53,12 +55,13 @@ I'm Aaqib, a product designer with a master's in computer science, so I like to 
   <img src="https://skillicons.dev/icons?i=figma,ts,js,react,html,css,tailwind,vite,nodejs,git,github,vercel&perline=12" alt="Figma, TypeScript, JavaScript, React, HTML, CSS, Tailwind CSS, Vite, Node.js, Git, GitHub, Vercel">
 </p>
 
-Product design · UX and UI · design strategy · design systems · brand identity · 3D in Spline · HCI
+Product design · UX and UI · app design · design systems · design strategy · vibe coding · 3D in Spline · HCI
 
 ## `07` A few fun facts
 
 - I've redesigned at least one form *while* filling it in.
 - Favourite font weight: 800 on weekdays, italic serif on weekends.
+- I'll happily nudge something 1 px to the left. Then back again.
 - On repeat: *Close* by Lewis Fanney, and *Amaze* from the *Project Hail Mary* soundtrack.
 
 <p align="center">
