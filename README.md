@@ -62,7 +62,7 @@ Product design · UX and UI · app design · design systems · design strategy �
 - I've redesigned at least one form *while* filling it in.
 - Favourite font weight: 800 on weekdays, italic serif on weekends.
 - I'll happily nudge something 1 px to the left. Then back again.
-- On repeat: *Close* by Lewis Fanney, and *Amaze* from the *Project Hail Mary* soundtrack.
+- <img src="https://cdn.simpleicons.org/spotify/1DB954" width="14" height="14" alt="Spotify"> On repeat: [*Close* by Lewis Fanney](https://open.spotify.com/search/Close%20Lewis%20Fanney), and [*Amaze*](https://open.spotify.com/search/Amaze%20Project%20Hail%20Mary) from the *Project Hail Mary* soundtrack.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmad-aaqib&theme=default&background=F3F1EA&ring=121110&fire=121110&currStreakLabel=121110&hide_border=true" alt="GitHub streak">
